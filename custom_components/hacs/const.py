@@ -8,7 +8,7 @@ DOMAIN = "hacs"
 CLIENT_ID = "395a8e669c5de9f7c6e8"
 MINIMUM_HA_VERSION = "0.0.0"
 
-BASE_API_URL = "https://ghapi.hacs.vip"
+BASE_API_URL = "https://gitcache.101093.xyz/api.github.com"
 
 URL_BASE = "/hacsfiles"
 

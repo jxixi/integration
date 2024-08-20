@@ -711,6 +711,11 @@ class HacsBase:
             return None
 
         mirrors = {
+            "101093.xyz": {
+                "raw": "https://gitcache.101093.xyz/raw.githubusercontent.com",
+                "archive": "https://gitcache.101093.xyz/github.com",
+                "release": "https://gitcache.101093.xyz/github.com",
+            },
             "hacs.vip": {
                 "raw": "https://ghrp.hacs.vip/raw",
                 "archive": "https://ghrp.hacs.vip",
